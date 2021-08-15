@@ -23,10 +23,10 @@ R
 ## Project Description
 The project answered the following questions:
 
-1. What were the spatial and temporal trends in the Covid-19 case rate, mortality rate, and hospitalization rate in each county of Georgia? 
-2. What economic factors are associated with Covid-19 case rate, mortality rate, and hospitalization rate in Georgia?
-3. What demographic factors are associated with Covid-19 case rate, mortality rate, and hospitalization rate in Georgia?
-4. Does partisan preference play a role in vaccination rates in Georgia? 
+1. What were the spatial and temporal trends in the Covid-19 case rate, mortality rate, and hospitalization rate in each county of Georgia from March 2020 to June 2021? 
+2. What economic factors were associated with Covid-19 case rate, mortality rate, and hospitalization rate in Georgia?
+3. What demographic factors were associated with Covid-19 case rate, mortality rate, and hospitalization rate in Georgia?
+4. Did partisan preference play a role in vaccination rates in Georgia? 
 5. What are the implications of the answers to Q1-Q4?
 
 
