@@ -1,9 +1,6 @@
 # Georgia-Covid-19-Data-Analysis
 Georiga Covid-19 data analysis. Advised by Dr. Yajun Mei @GeorgiaTech
 
-# Georgia-Covid-19-Data-Analysis
-Georiga Covid-19 data analysis. Advised by Prof. Yajun Mei. 
-
 #### Project Status: Completed
 
 ## Project Intro
