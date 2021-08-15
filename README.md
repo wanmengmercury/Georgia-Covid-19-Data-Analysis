@@ -17,8 +17,8 @@ The purpose of this project is to analyze state of Georgia Covid-19 data from Ma
 * Data Visualization
 
 ### Technology
-Python
-R
+* Python
+* R
 
 ## Project Description
 The project answered the following questions:
