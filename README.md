@@ -28,4 +28,4 @@ The project answered the following questions:
 
 
 ## Contact
-* Feel free to write me an email (wanmengliu@gatech.edu) or DM me on Twitter (@datasci_wanmeng) to share your feedback. :)
+* Feel free to write me an email (wanmengliu@gatech.edu) or DM me on Twitter (@datasci_wanmeng) to share your thoughts. :)
